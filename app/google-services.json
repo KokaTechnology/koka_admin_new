@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "449932346578",
+    "firebase_url": "https://kokatracking-default-rtdb.firebaseio.com",
+    "project_id": "kokatracking",
+    "storage_bucket": "kokatracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449932346578:android:f353a7521edefa3e0f190b",
+        "android_client_info": {
+          "package_name": "com.koka.employee.Services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449932346578-jd1l6dvej5tpmak2tl4hqak6cdd1s9vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgfWlpj4-UwKt5AEzONK0CISyYOlPnAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449932346578-jd1l6dvej5tpmak2tl4hqak6cdd1s9vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449932346578:android:02d8c4f3825e10c40f190b",
+        "android_client_info": {
+          "package_name": "com.koka.office.ServicesAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449932346578-jd1l6dvej5tpmak2tl4hqak6cdd1s9vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgfWlpj4-UwKt5AEzONK0CISyYOlPnAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449932346578-jd1l6dvej5tpmak2tl4hqak6cdd1s9vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
